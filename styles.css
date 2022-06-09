@@ -1,0 +1,73 @@
+body {
+  background-color: rgb(224, 229, 236);
+}
+
+.container {
+  font-family: 'Jost', sans-serif;
+  text-align: center;
+  width: 330px;
+  margin: 0 auto;
+  margin-top: 140px;
+  background-color: rgb(224, 229, 236);
+  box-shadow: rgba(163, 177, 198, 0.5) 5px 5px 10px 0, rgb(255, 255, 255) -5px -5px 10px 0;
+  border-radius: 50px;
+}
+
+h1 {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.weight, .height {
+  margin: 5px;
+  padding: 8px;
+  width: 165px;
+  font-family: 'Jost', sans-serif;
+  text-align: center;
+  font-size: 20px;
+  height: 28px;
+  border-style: none;
+  background-color: rgb(224, 229, 236);
+  box-shadow: rgba(163, 177, 198, 0.5) 12px 12px 24px 0 inset, rgb(255, 255, 255) -12px -12px 24px 0 inset;
+  border-radius: 40px;
+}
+
+.btn {
+  padding: 5px 40px;
+  margin: 60px;
+  background-color: rgb(224, 229, 236);
+  box-shadow: rgba(163, 177, 198, 0.5) 12px 12px 24px 0, rgb(255, 255, 255) -12px -12px 24px 0;
+  border-radius: 40px;
+  border-style: none;
+  font-size: 2em;
+}
+
+.pressed {
+  padding: 5px 40px;
+  margin: 60px;
+  background-color: rgb(224, 229, 236);
+  box-shadow: rgba(163, 177, 198, 0.5) 12px 12px 24px 0 inset, rgb(255, 255, 255) -12px -12px 24px 0 inset;
+  border-radius: 40px;
+  border-style: none;
+  font-size: 2em;
+}
+
+.result {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.logo {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.condition {
+  padding-bottom: 26px;
+  padding-top: 15px;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
